@@ -1,8 +1,3 @@
-"""
-Testes simples para demonstrar o uso da classe Matematica.
-Execute com: python teste.py
-"""
-
 from matematica import Matematica
 
 calc = Matematica()

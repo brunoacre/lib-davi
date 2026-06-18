@@ -1,7 +1,7 @@
 # matematica-modulo
 
 Módulo Python com operações matemáticas básicas.  
-Criado para demonstrar o uso de **submódulos Git**.
+Teste Davi.
 
 ## Operações disponíveis
 
